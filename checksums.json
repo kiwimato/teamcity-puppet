@@ -1,0 +1,17 @@
+{
+  "README.md": "82d40ef5ed13515b6ecf43d44a61be25",
+  "manifests/agent/env.pp": "253e70d9e5bb4854b88570e66ca9e9e7",
+  "manifests/agent/install.pp": "e349618050e268a10381315ce0bf677e",
+  "manifests/agent.pp": "36555629c6045f8336221057affd5c48",
+  "manifests/common.pp": "906e97bdba3f5a5367726cad5f8ba2ed",
+  "manifests/db.pp": "40f6aae16987535128780409830dcb2a",
+  "manifests/server/config.pp": "5ec443fc6065d6e8117d82e6e9424a0e",
+  "manifests/server/install.pp": "5e715003b76485ea3f8fcf52eb5df22f",
+  "manifests/server/plugin.pp": "f5d054e34cbaabf3cfaa0f328f5fb2e1",
+  "manifests/server.pp": "79f0cb0f6a7bc821556bb054e4724607",
+  "metadata.json": "edc14b36b6d35b6fd6727d1c357e6f30",
+  "templates/buildAgent.properties.erb": "ce69dd0ba20746af42d273773cf38f07",
+  "templates/server.xml.erb": "4dcc5620dad75ffc79095fdee34a2389",
+  "templates/teamcity-agent.erb": "52fc173b1137c8462116aa109626dd92",
+  "templates/teamcity-server.erb": "6ca64fba6bb4191b01d47ec87c583cf8"
+}
